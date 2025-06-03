@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Crop Yield Predictor</title>
+    <script>
+        function updateDistricts() {
+            const state = document.getElementById("state").value;
+            fetch("/get_districts", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ state: state })
+            })
+            .then(response => response.json())
+            .then(data => {
+                const districtSelect = document.getElementById("district");
+                districtSelect.innerHTML = "";
+                data.forEach(function(district) {
+                    const option = document.createElement("option");
+                    option.value = district;
+                    option.text = district;
+                    districtSelect.appendChild(option);
+                });
+            });
+        }
+    </script>
+    <!-- Add these in <head> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+
+</head>
+<body>
+    <h2>Crop Yield Prediction</h2>
+
+   
+
+    <form method="POST">
+        <label>State:</label>
+        <select name="state" id="state" required onchange="updateDistricts()">
+            <option value="">Select State</option>
+            {% for state in state_list %}
+                <option value="{{ state }}" {% if state == selected_state %}selected{% endif %}>{{ state }}</option>
+            {% endfor %}
+        </select><br><br>
+
+        <label>District:</label>
+        <select name="district" id="district" required>
+            {% if selected_state %}
+                {% for district in district_dict[selected_state] %}
+                    <option value="{{ district }}" {% if district == selected_district %}selected{% endif %}>{{ district }}</option>
+                {% endfor %}
+            {% else %}
+                <option value="">Select District</option>
+            {% endif %}
+        </select><br><br>
+
+        <label>Crop Year:</label>
+        <input type="number" name="crop_year" required><br><br>
+
+        <label>Season:</label>
+        <select name="season" required>
+            {% for season in season_list %}
+                <option value="{{ season }}">{{ season }}</option>
+            {% endfor %}
+        </select><br><br>
+
+        <label>Crop:</label>
+        <select id = "crop-select" name="crop" multiple required>
+            {% for crop in crop_list %}
+                <option value="{{ crop }}">{{ crop }}</option>
+            {% endfor %}
+        </select><br><br>
+
+        <label>Area (hectares):</label>
+        <input type="number" name="area" required><br><br>
+        <input type="submit" value="Predict">
+    </form>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            new Choices('#crop-select', {
+            removeItemButton: true,
+            placeholderValue: 'Select crops',
+            maxItemCount: 50,
+            searchResultLimit: 10,
+            renderChoiceLimit: 25
+            });
+        });
+    </script>
+</body>
+</html>
+

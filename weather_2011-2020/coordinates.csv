@@ -1,0 +1,636 @@
+state_name,district_name,location,latitude,longitude
+Andhra Pradesh,Anantapur,"Anantapur, Andhra Pradesh, India",14.72422,77.4306738
+Andhra Pradesh,Krishna,"Krishna, Andhra Pradesh, India",16.21277,81.0306958
+Andhra Pradesh,West Godavari,"West Godavari, Andhra Pradesh, India",16.6443028,81.5885247
+Telangana,Adilabad,"Adilabad, Telangana, India",19.6759452,78.5339895
+Andhra Pradesh,Chittoor,"Chittoor, Andhra Pradesh, India",13.2026484,79.0032253
+Andhra Pradesh,East Godavari,"East Godavari, Andhra Pradesh, India",16.9956638,81.7154378
+Andhra Pradesh,Guntur,"Guntur, Andhra Pradesh, India",16.2915189,80.4541588
+Andhra Pradesh,Kadapa,"Kadapa, Andhra Pradesh, India",14.4752936,78.8216861
+Andhra Pradesh,Karimnagar,"Karimnagar, Andhra Pradesh, India",18.438555,79.128838
+Andhra Pradesh,Khammam,"Khammam, Andhra Pradesh, India",17.0734741,81.3420391
+Andhra Pradesh,Kurnool,"Kurnool, Andhra Pradesh, India",15.8309251,78.0425373
+Telangana,Mahabubnagar,"Mahabubnagar, Telangana, India",16.6965686,77.9591146
+Andhra Pradesh,Medak,"Medak, Andhra Pradesh, India",18.045992,78.263359
+Andhra Pradesh,Nalgonda,"Nalgonda, Andhra Pradesh, India",17.05662,79.268333
+Andhra Pradesh,Nizamabad,"Nizamabad, Andhra Pradesh, India",18.3015062,84.0232082
+Andhra Pradesh,Prakasam,"Prakasam, Andhra Pradesh, India",15.6642643,79.4733001
+Andhra Pradesh,Sri Potti Sriramulu Nellore,"Sri Potti Sriramulu Nellore, Andhra Pradesh, India",14.7174388,79.6605057
+Andhra Pradesh,Srikakulam,"Srikakulam, Andhra Pradesh, India",18.2949307,83.8938844
+Andhra Pradesh,Vizianagaram,"Vizianagaram, Andhra Pradesh, India",18.1141255,83.4114389
+Andhra Pradesh,Warangal,"Warangal, Andhra Pradesh, India",18.0,79.83333
+Arunachal Pradesh,Anjaw,"Anjaw, Arunachal Pradesh, India",28.1114301,96.8269996
+Arunachal Pradesh,Changlang,"Changlang, Arunachal Pradesh, India",27.272007,96.065526
+Arunachal Pradesh,Dibang Valley,"Dibang Valley, Arunachal Pradesh, India",28.8291044,95.9554096
+Arunachal Pradesh,East Kameng,"East Kameng, Arunachal Pradesh, India",27.557781,92.9673843
+Arunachal Pradesh,East Siang,"East Siang, Arunachal Pradesh, India",28.0742219,95.4178149
+Arunachal Pradesh,Kurung Kumey,"Kurung Kumey, Arunachal Pradesh, India",27.9863676,93.1578347
+Arunachal Pradesh,Lohit,"Lohit, Arunachal Pradesh, India",28.0350161,96.1713515
+Arunachal Pradesh,Lower Dibang Valley,"Lower Dibang Valley, Arunachal Pradesh, India",28.2149563,95.878774
+Arunachal Pradesh,Lower Subansiri,"Lower Subansiri, Arunachal Pradesh, India",27.5326327,93.7823245
+Arunachal Pradesh,Papum Pare,"Papum Pare, Arunachal Pradesh, India",27.2863666,93.6187716
+Arunachal Pradesh,Tawang,"Tawang, Arunachal Pradesh, India",27.6741942,91.9362059
+Arunachal Pradesh,Tirap,"Tirap, Arunachal Pradesh, India",27.030169,95.4979175
+Arunachal Pradesh,Upper Siang,"Upper Siang, Arunachal Pradesh, India",28.7312046,95.0377315
+Arunachal Pradesh,Upper Subansiri,"Upper Subansiri, Arunachal Pradesh, India",28.2596054,94.0938106
+Arunachal Pradesh,West Siang,"West Siang, Arunachal Pradesh, India",28.1970922,94.48407
+Assam,Baksa,"Baksa, Assam, India",26.6275689,91.3388551
+Assam,Barpeta,"Barpeta, Assam, India",26.345941,91.039708
+Assam,Bongaigaon,"Bongaigaon, Assam, India",26.4800126,90.5580387
+Assam,Cachar,"Cachar, Assam, India",24.75864,92.8816648
+Assam,Chirang,"Chirang, Assam, India",26.6464231,90.624157
+Assam,Darrang,"Darrang, Assam, India",26.4373481,92.0047145
+Assam,Dhemaji,"Dhemaji, Assam, India",27.5945155,94.7192098
+Assam,Dhubri,"Dhubri, Assam, India",26.132275,90.1249962
+Assam,Dibrugarh,"Dibrugarh, Assam, India",27.4844597,94.9019447
+Assam,Dima Hasao,"Dima Hasao, Assam, India",25.4003625,93.0752292
+Assam,Goalpara,"Goalpara, Assam, India",26.0491877,90.6001859
+Assam,Golaghat,"Golaghat, Assam, India",26.5108262,93.9743686
+Assam,Hailakandi,"Hailakandi, Assam, India",24.6846916,92.5645836
+Assam,Jorhat,"Jorhat, Assam, India",26.7577925,94.2079645
+Assam,Kamrup,"Kamrup, Assam, India",26.146886,91.2227397
+Assam,Kamrup Metro,"Kamrup Metro, Assam, India",26.1161783,91.7972485
+Assam,Karbi Anglong,"Karbi Anglong, Assam, India",26.0,93.5
+Assam,Karimganj,"Karimganj, Assam, India",24.5828195,92.3725486
+Assam,Kokrajhar,"Kokrajhar, Assam, India",26.4912103,90.1215209
+Assam,Lakhimpur,"Lakhimpur, Assam, India",27.1763356,94.1992932
+Assam,Marigaon,"Marigaon, Assam, India",26.290712,92.2922184
+Assam,Nagaon,"Nagaon, Assam, India",26.3313646,92.7524763
+Assam,Nalbari,"Nalbari, Assam, India",26.3533631,91.3983662
+Assam,Sivasagar,"Sivasagar, Assam, India",26.9834936,94.6394226
+Assam,Sonitpur,"Sonitpur, Assam, India",26.7677707,92.7014089
+Assam,Tinsukia,"Tinsukia, Assam, India",27.4879722,95.3601855
+Assam,Udalguri,"Udalguri, Assam, India",26.7047237,92.0421507
+Bihar,Araria,"Araria, Bihar, India",26.2651013,87.3699437
+Bihar,Arwal,"Arwal, Bihar, India",25.1812831,84.6596648
+Bihar,Aurangabad,"Aurangabad, Bihar, India",24.80332,84.4110198
+Bihar,Banka,"Banka, Bihar, India",24.8328273,86.8161114
+Bihar,Begusarai,"Begusarai, Bihar, India",25.5125411,86.0883392
+Bihar,Bhagalpur,"Bhagalpur, Bihar, India",25.2861354,87.1304229
+Bihar,Bhojpur,"Bhojpur, Bihar, India",25.4501182,84.5635193
+Bihar,Buxar,"Buxar, Bihar, India",25.5044834,84.1097525
+Bihar,Darbhanga,"Darbhanga, Bihar, India",26.0829899,86.0324951
+Bihar,Gaya,"Gaya, Bihar, India",24.6793889,85.0115833
+Bihar,Gopalganj,"Gopalganj, Bihar, India",26.4211166,84.3739133
+Bihar,Jamui,"Jamui, Bihar, India",24.7562513,86.3011128
+Bihar,Jehanabad,"Jehanabad, Bihar, India",25.1529578,85.0065043
+Bihar,Kaimur (Bhabua),"Kaimur (Bhabua), Bihar, India",25.0402736,83.6076361
+Bihar,Katihar,"Katihar, Bihar, India",25.5586421,87.6457196
+Bihar,Khagaria,"Khagaria, Bihar, India",25.4930513,86.6982264
+Bihar,Kishanganj,"Kishanganj, Bihar, India",26.2984144,87.9466715
+Bihar,Lakhisarai,"Lakhisarai, Bihar, India",25.1543938,86.1744959
+Bihar,Madhepura,"Madhepura, Bihar, India",25.7806118,86.9364753
+Bihar,Madhubani,"Madhubani, Bihar, India",26.3503076,86.2296424
+Bihar,Munger,"Munger, Bihar, India",25.2202864,86.5161484
+Bihar,Muzaffarpur,"Muzaffarpur, Bihar, India",26.1482548,85.3316097
+Bihar,Nalanda,"Nalanda, Bihar, India",25.1364914,85.4436546
+Bihar,Nawada,"Nawada, Bihar, India",24.8173249,85.5179085
+Bihar,Pashchim Champaran,"Pashchim Champaran, Bihar, India",27.0,84.5
+Bihar,Patna,"Patna, Bihar, India",25.6093239,85.1235252
+Bihar,Purbi Champaran,"Purbi Champaran, Bihar, India",26.6465969,84.9091552
+Bihar,Purnia,"Purnia, Bihar, India",25.7758723,87.4087667
+Bihar,Rohtas,"Rohtas, Bihar, India",24.9394142,84.0197031
+Bihar,Saharsa,"Saharsa, Bihar, India",25.8330757,86.6143751
+Bihar,Samastipur,"Samastipur, Bihar, India",25.7747884,85.8672314
+Bihar,Saran,"Saran, Bihar, India",25.9214451,84.7759731
+Bihar,Sheikhpura,"Sheikhpura, Bihar, India",25.1250741,85.8160771
+Bihar,Sheohar,"Sheohar, Bihar, India",26.4934234,85.2717561
+Bihar,Sitamarhi,"Sitamarhi, Bihar, India",26.5942841,85.500428
+Bihar,Siwan,"Siwan, Bihar, India",26.131008,84.3910745
+Bihar,Supaul,"Supaul, Bihar, India",26.2768089,86.7959614
+Bihar,Vaishali,"Vaishali, Bihar, India",25.7491702,85.3972164
+Chhattisgarh,Bastar,"Bastar, Chhattisgarh, India",19.1191282,81.8291865
+Chhattisgarh,Bijapur,"Bijapur, Chhattisgarh, India",18.7935679,80.815939
+Chhattisgarh,Bilaspur,"Bilaspur, Chhattisgarh, India",22.1638486,82.1365923
+Chhattisgarh,Dakshin Bastar Dantewada,"Dakshin Bastar Dantewada, Chhattisgarh, India",18.74979,81.7525
+Chhattisgarh,Dhamtari,"Dhamtari, Chhattisgarh, India",20.5326259,81.7155987
+Chhattisgarh,Durg,"Durg, Chhattisgarh, India",21.1982964,81.4007922
+Chhattisgarh,Janjgir-Champa,"Janjgir-Champa, Chhattisgarh, India",21.986403,82.5536606
+Chhattisgarh,Jashpur,"Jashpur, Chhattisgarh, India",22.770251,83.9708013
+Chhattisgarh,Kabirdham,"Kabirdham, Chhattisgarh, India",22.1150085,81.2446944
+Chhattisgarh,Kanker,"Kanker, Chhattisgarh, India",20.2692747,81.4932111
+Chhattisgarh,Korba,"Korba, Chhattisgarh, India",22.5198217,82.6350029
+Chhattisgarh,Korea,"Korea, Chhattisgarh, India",23.2382999,82.3906588
+Chhattisgarh,Mahasamund,"Mahasamund, Chhattisgarh, India",21.1922846,82.4890263
+Chhattisgarh,Narayanpur,"Narayanpur, Chhattisgarh, India",19.5842032,81.1136986
+Chhattisgarh,Raigarh,"Raigarh, Chhattisgarh, India",22.2361795,83.3529534
+Chhattisgarh,Raipur,"Raipur, Chhattisgarh, India",21.2380912,81.6336993
+Chhattisgarh,Rajnandgaon,"Rajnandgaon, Chhattisgarh, India",21.0684424,80.7970779
+Chhattisgarh,Surguja,"Surguja, Chhattisgarh, India",22.9469135,83.1656942
+The Dadra And Nagar Haveli And Daman And Diu,Surguja,"Surguja, The Dadra And Nagar Haveli And Daman And Diu, India",22.89624,83.09631
+Goa,North Goa,"North Goa, Goa, India",15.6044413,74.0017241
+Gujarat,Ahmadabad,"Ahmadabad, Gujarat, India",23.0215374,72.5800568
+Gujarat,Amreli,"Amreli, Gujarat, India",21.4176122,71.249609
+Gujarat,Anand,"Anand, Gujarat, India",22.5586555,72.9627227
+Gujarat,Banas Kantha,"Banas Kantha, Gujarat, India",24.25,72.5
+Gujarat,Bharuch,"Bharuch, Gujarat, India",21.7080427,72.9956936
+Gujarat,Bhavnagar,"Bhavnagar, Gujarat, India",21.7718836,72.1416449
+Gujarat,Dang,"Dang, Gujarat, India",20.7881718,73.7092033
+Gujarat,Gandhinagar,"Gandhinagar, Gujarat, India",23.2232877,72.6492267
+Gujarat,Jamnagar,"Jamnagar, Gujarat, India",22.4732415,70.0552102
+Gujarat,Junagadh,"Junagadh, Gujarat, India",21.5220416,70.4582458
+Gujarat,Kachchh,"Kachchh, Gujarat, India",23.583333,70.0
+Gujarat,Kheda,"Kheda, Gujarat, India",22.8532503,72.9953586
+Gujarat,Mahesana,"Mahesana, Gujarat, India",23.6015557,72.3867981
+Gujarat,Narmada,"Narmada, Gujarat, India",21.7392624,73.6262458
+Gujarat,Navsari,"Navsari, Gujarat, India",20.952407,72.9323831
+Gujarat,Patan,"Patan, Gujarat, India",23.773753,71.6798581
+Gujarat,Porbandar,"Porbandar, Gujarat, India",21.6409,69.611
+Gujarat,Rajkot,"Rajkot, Gujarat, India",22.3053263,70.8028377
+Gujarat,Sabar Kantha,"Sabar Kantha, Gujarat, India",23.5,73.25
+Gujarat,Surat,"Surat, Gujarat, India",21.2094892,72.8317058
+Gujarat,Surendranagar,"Surendranagar, Gujarat, India",22.8251395,71.6209736
+Gujarat,Tapi,"Tapi, Gujarat, India",21.1916567,73.5560631
+Gujarat,Vadodara,"Vadodara, Gujarat, India",22.2973142,73.1942567
+Gujarat,Valsad,"Valsad, Gujarat, India",20.4321957,73.1409893
+Haryana,Ambala,"Ambala, Haryana, India",30.3843674,76.770421
+Haryana,Bhiwani,"Bhiwani, Haryana, India",28.7931703,76.1391283
+Haryana,Fatehabad,"Fatehabad, Haryana, India",29.5359209,75.5752901
+Haryana,Gurgaon,"Gurgaon, Haryana, India",28.4646148,77.0299194
+Haryana,Hisar,"Hisar, Haryana, India",29.2396596,75.8174505
+Haryana,Jhajjar,"Jhajjar, Haryana, India",28.5964461,76.6505366
+Haryana,Jind,"Jind, Haryana, India",29.3152073,76.314082
+Haryana,Kaithal,"Kaithal, Haryana, India",29.7996588,76.3989903
+Haryana,Karnal,"Karnal, Haryana, India",29.7255766,76.9106924
+Haryana,Kurukshetra,"Kurukshetra, Haryana, India",29.9693747,76.8482787
+Haryana,Mahendragarh,"Mahendragarh, Haryana, India",28.132697,76.1697448
+Haryana,Palwal,"Palwal, Haryana, India",28.0599426,77.3223422
+Haryana,Panchkula,"Panchkula, Haryana, India",30.6975401,76.8551066
+Haryana,Panipat,"Panipat, Haryana, India",29.3912753,76.9771675
+Haryana,Rewari,"Rewari, Haryana, India",28.1956468,76.6165179
+Haryana,Rohtak,"Rohtak, Haryana, India",28.9010899,76.5801935
+Haryana,Sirsa,"Sirsa, Haryana, India",29.6063041,74.9036568
+Haryana,Sonipat,"Sonipat, Haryana, India",28.9953758,77.0233627
+Haryana,Yamunanagar,"Yamunanagar, Haryana, India",30.1231349,77.286329
+Haryana,Faridabad,"Faridabad, Haryana, India",28.4031478,77.3105561
+Haryana,Mewat,"Mewat, Haryana, India",27.9935177,77.0419634
+Himachal Pradesh,Kangra,"Kangra, Himachal Pradesh, India",32.0768665,76.2985872
+Himachal Pradesh,Shimla,"Shimla, Himachal Pradesh, India",31.1041526,77.1709729
+Himachal Pradesh,Sirmaur,"Sirmaur, Himachal Pradesh, India",30.6991321,77.4465304
+Himachal Pradesh,Hamirpur,"Hamirpur, Himachal Pradesh, India",31.6539865,76.5403633
+Himachal Pradesh,Mandi,"Mandi, Himachal Pradesh, India",31.6516617,77.0092542
+Himachal Pradesh,Bilaspur,"Bilaspur, Himachal Pradesh, India",31.3380959,76.7611631
+Himachal Pradesh,Chamba,"Chamba, Himachal Pradesh, India",32.6923316,76.1631552
+Himachal Pradesh,Kullu,"Kullu, Himachal Pradesh, India",31.9578974,77.1089232
+Himachal Pradesh,Solan,"Solan, Himachal Pradesh, India",30.9077569,77.1023645
+Himachal Pradesh,Una,"Una, Himachal Pradesh, India",31.5834642,76.2351452
+Jammu And Kashmir,Samba,"Samba, Jammu And Kashmir, India",32.5759118,75.1203446
+Jammu And Kashmir,Jammu,"Jammu, Jammu And Kashmir, India",32.7185614,74.8580917
+Jammu And Kashmir,Kathua,"Kathua, Jammu And Kashmir, India",32.3765524,75.5243044
+Jammu And Kashmir,Rajauri,"Rajauri, Jammu And Kashmir, India",33.3772495,74.3132332
+Jammu And Kashmir,Reasi,"Reasi, Jammu And Kashmir, India",33.2059908,74.8626794
+Jammu And Kashmir,Udhampur,"Udhampur, Jammu And Kashmir, India",32.911964,75.3265845
+Jammu And Kashmir,Doda,"Doda, Jammu And Kashmir, India",33.13261,75.5890079
+Jammu And Kashmir,Kishtwar,"Kishtwar, Jammu And Kashmir, India",33.3107908,75.7694213
+Jammu And Kashmir,Bandipora,"Bandipora, Jammu And Kashmir, India",34.4232433,74.635965
+Jammu And Kashmir,Anantnag,"Anantnag, Jammu And Kashmir, India",33.74611,75.1854475
+Jammu And Kashmir,Badgam,"Badgam, Jammu And Kashmir, India",34.0385248,74.7360163
+Jammu And Kashmir,Kulgam,"Kulgam, Jammu And Kashmir, India",33.6446899,75.0188432
+Jammu And Kashmir,Pulwama,"Pulwama, Jammu And Kashmir, India",33.9490472,75.0418335
+Jammu And Kashmir,Srinagar,"Srinagar, Jammu And Kashmir, India",34.0747444,74.8204443
+Jammu And Kashmir,Baramulla,"Baramulla, Jammu And Kashmir, India",34.2086903,74.343498
+Jharkhand,Bokaro,"Bokaro, Jharkhand, India",23.6991279,85.9910689
+Jharkhand,Chatra,"Chatra, Jharkhand, India",24.1062316,84.8623379
+Jharkhand,Deoghar,"Deoghar, Jharkhand, India",24.4898318,86.6990182
+Jharkhand,Dhanbad,"Dhanbad, Jharkhand, India",23.7952809,86.4309638
+Jharkhand,Dumka,"Dumka, Jharkhand, India",24.2677937,87.2485495
+Jharkhand,Garhwa,"Garhwa, Jharkhand, India",24.053577,83.6526818
+Jharkhand,Giridih,"Giridih, Jharkhand, India",24.3314546,86.1548117
+Jharkhand,Godda,"Godda, Jharkhand, India",24.8645886,87.2984838
+Jharkhand,Gumla,"Gumla, Jharkhand, India",23.1603759,84.4599565
+Jharkhand,Hazaribagh,"Hazaribagh, Jharkhand, India",24.0866962,85.4912231
+Jharkhand,Jamtara,"Jamtara, Jharkhand, India",23.9801639,86.9243637
+Jharkhand,Khunti,"Khunti, Jharkhand, India",22.9281801,85.2814475
+Jharkhand,Koderma,"Koderma, Jharkhand, India",24.4931239,85.5560811
+Jharkhand,Latehar,"Latehar, Jharkhand, India",23.6880057,84.4969551
+Jharkhand,Lohardaga,"Lohardaga, Jharkhand, India",23.4770044,84.6986684
+Jharkhand,Pakur,"Pakur, Jharkhand, India",24.5325908,87.593232
+Jharkhand,Palamu,"Palamu, Jharkhand, India",24.2212983,84.1725565
+Jharkhand,Ramgarh,"Ramgarh, Jharkhand, India",23.693479,85.5215989
+Jharkhand,Ranchi,"Ranchi, Jharkhand, India",23.3700501,85.3250387
+Jharkhand,Sahebganj,"Sahebganj, Jharkhand, India",25.0320437,87.691764
+Jharkhand,Saraikela Kharsawan,"Saraikela Kharsawan, Jharkhand, India",22.7464225,85.9168929
+Jharkhand,Simdega,"Simdega, Jharkhand, India",22.5904573,84.5464805
+Jharkhand,West Singhbhum,"West Singhbhum, Jharkhand, India",22.4282857,85.5317483
+Karnataka,Ballari,"Ballari, Karnataka, India",15.3483657,76.8055278
+Karnataka,Bangalore Rural,"Bangalore Rural, Karnataka, India",13.0010872,77.3361225
+Karnataka,Belagavi,"Belagavi, Karnataka, India",16.1587846,74.888862
+Karnataka,Bengaluru Urban,"Bengaluru Urban, Karnataka, India",12.9461554,77.5503844
+Karnataka,Chamarajanagara,"Chamarajanagara, Karnataka, India",11.9238058,76.9393558
+Karnataka,Chikkaballapura,"Chikkaballapura, Karnataka, India",13.5897941,77.778793
+Karnataka,Chikkamagaluru,"Chikkamagaluru, Karnataka, India",13.4058699,75.638758
+Karnataka,Chitradurga,"Chitradurga, Karnataka, India",14.3049174,76.5297234
+Karnataka,Dakshina Kannada,"Dakshina Kannada, Karnataka, India",12.8226433,75.2265036
+Karnataka,Davangere,"Davangere, Karnataka, India",14.4661266,75.9206361
+Karnataka,Dharwad,"Dharwad, Karnataka, India",15.3707296,75.1332867
+Karnataka,Gadag,"Gadag, Karnataka, India",15.416692,75.6815801
+Karnataka,Hassan,"Hassan, Karnataka, India",13.0301852,76.1744968
+Karnataka,Haveri,"Haveri, Karnataka, India",14.7180267,75.3656423
+Karnataka,Kodagu,"Kodagu, Karnataka, India",12.3827332,75.6640715
+Karnataka,Mandya,"Mandya, Karnataka, India",12.6368939,76.7275477
+Karnataka,Mysuru,"Mysuru, Karnataka, India",12.3041464,76.6529521
+Karnataka,Ramanagara,"Ramanagara, Karnataka, India",12.720006,77.3184199
+Karnataka,Shivamogga,"Shivamogga, Karnataka, India",13.9326093,75.574978
+Karnataka,Tumakuru,"Tumakuru, Karnataka, India",13.4192512,76.8810004
+Karnataka,Udupi,"Udupi, Karnataka, India",13.5269784,74.8731879
+Karnataka,Uttara Kannada,"Uttara Kannada, Karnataka, India",14.7253795,74.6403389
+Karnataka,Bagalkote,"Bagalkote, Karnataka, India",16.2903648,75.5915819
+Karnataka,Bidar,"Bidar, Karnataka, India",18.0207296,77.2487204
+Karnataka,Kalaburagi,"Kalaburagi, Karnataka, India",17.2408957,76.7697439
+Karnataka,Kolar,"Kolar, Karnataka, India",13.1805066,78.2669329
+Karnataka,Koppal,"Koppal, Karnataka, India",15.5748238,76.3118494
+Karnataka,Raichur,"Raichur, Karnataka, India",16.0547194,76.9003647
+Karnataka,Vijayapura,"Vijayapura, Karnataka, India",16.814415,75.8933856
+Karnataka,Yadagiri,"Yadagiri, Karnataka, India",16.7745024,77.1270379
+Kerala,Alappuzha,"Alappuzha, Kerala, India",9.5006651,76.4124143
+Kerala,Ernakulam,"Ernakulam, Kerala, India",9.9837257,76.2740001
+Kerala,Idukki,"Idukki, Kerala, India",9.8154785,76.9991599
+Kerala,Kannur,"Kannur, Kerala, India",11.8763836,75.3737973
+Kerala,Kasaragod,"Kasaragod, Kerala, India",12.4221964,75.1904446
+Kerala,Kollam,"Kollam, Kerala, India",8.8870815,76.5907017
+Kerala,Kottayam,"Kottayam, Kerala, India",9.6287383,76.6455326
+Kerala,Kozhikode,"Kozhikode, Kerala, India",11.2450558,75.7754716
+Kerala,Malappuram,"Malappuram, Kerala, India",11.1068448,76.1099551
+Kerala,Palakkad,"Palakkad, Kerala, India",10.7873691,76.4742172
+Kerala,Pathanamthitta,"Pathanamthitta, Kerala, India",9.2780841,76.9737443
+Kerala,Thiruvananthapuram,"Thiruvananthapuram, Kerala, India",8.4882267,76.947551
+Kerala,Thrissur,"Thrissur, Kerala, India",10.5270099,76.214621
+Kerala,Wayanad,"Wayanad, Kerala, India",11.7151291,76.1271185
+Madhya Pradesh,Alirajpur,"Alirajpur, Madhya Pradesh, India",22.2859524,74.3545628
+Madhya Pradesh,Anuppur,"Anuppur, Madhya Pradesh, India",23.0346179,81.7510255
+Madhya Pradesh,Ashoknagar,"Ashoknagar, Madhya Pradesh, India",24.6186095,77.8786983
+Madhya Pradesh,Balaghat,"Balaghat, Madhya Pradesh, India",21.8611589,80.3237105
+Madhya Pradesh,Barwani,"Barwani, Madhya Pradesh, India",21.7514248,74.8915957
+Madhya Pradesh,Betul,"Betul, Madhya Pradesh, India",21.8797472,77.8753651
+Madhya Pradesh,Bhind,"Bhind, Madhya Pradesh, India",26.3518828,78.6863189
+Madhya Pradesh,Bhopal,"Bhopal, Madhya Pradesh, India",23.2584857,77.401989
+Madhya Pradesh,Burhanpur,"Burhanpur, Madhya Pradesh, India",21.3348669,76.3708803
+Madhya Pradesh,Chhatarpur,"Chhatarpur, Madhya Pradesh, India",24.7606089,79.6781776
+Madhya Pradesh,Chhindwara,"Chhindwara, Madhya Pradesh, India",22.2071897,78.798833
+Madhya Pradesh,Damoh,"Damoh, Madhya Pradesh, India",23.7981005,79.5419356
+Madhya Pradesh,Datia,"Datia, Madhya Pradesh, India",25.9182946,78.6644962
+Madhya Pradesh,Dewas,"Dewas, Madhya Pradesh, India",22.8057498,76.2940408
+Madhya Pradesh,Dhar,"Dhar, Madhya Pradesh, India",22.5786572,75.2258637
+Madhya Pradesh,Dindori,"Dindori, Madhya Pradesh, India",22.9070871,80.8846924
+Madhya Pradesh,Guna,"Guna, Madhya Pradesh, India",24.5001772,77.2600959
+Madhya Pradesh,Gwalior,"Gwalior, Madhya Pradesh, India",26.2037247,78.1573628
+Madhya Pradesh,Harda,"Harda, Madhya Pradesh, India",22.2427972,77.1179173
+Madhya Pradesh,Hoshangabad,"Hoshangabad, Madhya Pradesh, India",22.7545538,77.7198249
+Madhya Pradesh,Indore,"Indore, Madhya Pradesh, India",22.7203616,75.8681996
+Madhya Pradesh,Jabalpur,"Jabalpur, Madhya Pradesh, India",23.1701522,79.9324505
+Madhya Pradesh,Jhabua,"Jhabua, Madhya Pradesh, India",22.8869652,74.7243249
+Madhya Pradesh,Katni,"Katni, Madhya Pradesh, India",23.7176393,80.2610181
+Madhya Pradesh,Khandwa,"Khandwa, Madhya Pradesh, India",21.8203752,76.3555424
+Madhya Pradesh,Khargone,"Khargone, Madhya Pradesh, India",21.9544729,75.7521248
+Madhya Pradesh,Mandla,"Mandla, Madhya Pradesh, India",22.6871074,80.5816341
+Madhya Pradesh,Mandsaur,"Mandsaur, Madhya Pradesh, India",24.2628148,75.385692
+Madhya Pradesh,Morena,"Morena, Madhya Pradesh, India",26.3849794,77.8612721
+Madhya Pradesh,Narsinghpur,"Narsinghpur, Madhya Pradesh, India",22.934556,79.0867849
+Madhya Pradesh,Neemuch,"Neemuch, Madhya Pradesh, India",24.6305517,75.1829
+Madhya Pradesh,Panna,"Panna, Madhya Pradesh, India",24.4498931,80.1462723
+Madhya Pradesh,Raisen,"Raisen, Madhya Pradesh, India",23.2675909,78.1727134
+Madhya Pradesh,Rajgarh,"Rajgarh, Madhya Pradesh, India",23.8716706,76.7744703
+Madhya Pradesh,Ratlam,"Ratlam, Madhya Pradesh, India",23.50222,74.9551534
+Madhya Pradesh,Rewa,"Rewa, Madhya Pradesh, India",24.7560846,81.3810574
+Madhya Pradesh,Sagar,"Sagar, Madhya Pradesh, India",23.8083076,78.758254
+Madhya Pradesh,Satna,"Satna, Madhya Pradesh, India",24.6954445,80.7770348
+Madhya Pradesh,Sehore,"Sehore, Madhya Pradesh, India",23.1150041,77.0665356
+Madhya Pradesh,Seoni,"Seoni, Madhya Pradesh, India",22.2748109,79.7202522
+Madhya Pradesh,Shahdol,"Shahdol, Madhya Pradesh, India",23.3002343,81.364771
+Madhya Pradesh,Shajapur,"Shajapur, Madhya Pradesh, India",23.4171001,76.6074794
+Madhya Pradesh,Sheopur,"Sheopur, Madhya Pradesh, India",25.7499266,76.9212945
+Madhya Pradesh,Shivpuri,"Shivpuri, Madhya Pradesh, India",25.3741215,77.8278866
+Madhya Pradesh,Sidhi,"Sidhi, Madhya Pradesh, India",24.2112687,81.7000415
+Madhya Pradesh,Singrauli,"Singrauli, Madhya Pradesh, India",24.2431343,82.3827672
+Madhya Pradesh,Tikamgarh,"Tikamgarh, Madhya Pradesh, India",24.8552105,79.0472546
+Madhya Pradesh,Ujjain,"Ujjain, Madhya Pradesh, India",23.1885131,75.7716562
+Madhya Pradesh,Umaria,"Umaria, Madhya Pradesh, India",23.6431837,80.9419078
+Madhya Pradesh,Vidisha,"Vidisha, Madhya Pradesh, India",23.8463003,77.8370209
+Maharashtra,Ahmednagar,"Ahmednagar, Maharashtra, India",19.1627725,74.8580243
+Maharashtra,Akola,"Akola, Maharashtra, India",20.7618122,77.1921157
+Maharashtra,Amravati,"Amravati, Maharashtra, India",21.1545412,77.6442962
+Maharashtra,Aurangabad,"Aurangabad, Maharashtra, India",19.877263,75.3390241
+Maharashtra,Beed,"Beed, Maharashtra, India",18.9918442,75.909784
+Maharashtra,Bhandara,"Bhandara, Maharashtra, India",21.1225869,79.794509
+Maharashtra,Buldhana,"Buldhana, Maharashtra, India",20.562845,76.4086986
+Maharashtra,Chandrapur,"Chandrapur, Maharashtra, India",20.0967555,79.5045475
+Maharashtra,Dhule,"Dhule, Maharashtra, India",21.1305215,74.4900614
+Maharashtra,Gadchiroli,"Gadchiroli, Maharashtra, India",19.7590704,80.1622807
+Maharashtra,Gondia,"Gondia, Maharashtra, India",21.455228,80.1962729
+Maharashtra,Hingoli,"Hingoli, Maharashtra, India",19.5431163,77.1739432
+Maharashtra,Jalgaon,"Jalgaon, Maharashtra, India",20.8428826,75.5261246
+Maharashtra,Jalna,"Jalna, Maharashtra, India",19.918833,75.8708599
+Maharashtra,Kolhapur,"Kolhapur, Maharashtra, India",16.7028412,74.2405329
+Maharashtra,Latur,"Latur, Maharashtra, India",18.3553347,76.7548997
+Maharashtra,Nagpur,"Nagpur, Maharashtra, India",21.1498134,79.0820556
+Maharashtra,Nanded,"Nanded, Maharashtra, India",19.0940088,77.4831922
+Maharashtra,Nandurbar,"Nandurbar, Maharashtra, India",21.5141622,74.5405513
+Maharashtra,Nashik,"Nashik, Maharashtra, India",20.0112475,73.7902364
+Maharashtra,Osmanabad,"Osmanabad, Maharashtra, India",18.2822454,76.0588166
+Maharashtra,Parbhani,"Parbhani, Maharashtra, India",19.2901981,76.6026443
+Maharashtra,Pune,"Pune, Maharashtra, India",18.5213738,73.8545071
+Maharashtra,Raigad,"Raigad, Maharashtra, India",18.4928092,73.138071
+Maharashtra,Ratnagiri,"Ratnagiri, Maharashtra, India",17.2826079,73.4569787
+Maharashtra,Sangli,"Sangli, Maharashtra, India",17.1726928,74.5867654
+Maharashtra,Satara,"Satara, Maharashtra, India",17.6361288,74.2982781
+Maharashtra,Solapur,"Solapur, Maharashtra, India",17.8499067,75.2763203
+Maharashtra,Thane,"Thane, Maharashtra, India",19.1943294,72.9701779
+Maharashtra,Wardha,"Wardha, Maharashtra, India",20.8256231,78.6131455
+Maharashtra,Washim,"Washim, Maharashtra, India",20.2874178,77.2369655
+Maharashtra,Yavatmal,"Yavatmal, Maharashtra, India",20.0638677,78.3565663
+Maharashtra,Sindhudurg,"Sindhudurg, Maharashtra, India",16.1357193,73.6522086
+Manipur,Bishnupur,"Bishnupur, Manipur, India",24.6267287,93.7600454
+Manipur,Chandel,"Chandel, Manipur, India",24.1700959,94.0059673
+Manipur,Churachandpur,"Churachandpur, Manipur, India",24.3468839,93.6994143
+Manipur,Imphal East,"Imphal East, Manipur, India",24.8515402,94.0094796
+Manipur,Imphal West,"Imphal West, Manipur, India",24.757326,93.8584786
+Manipur,Senapati,"Senapati, Manipur, India",25.3933697,94.1505175
+Manipur,Tamenglong,"Tamenglong, Manipur, India",24.9858596,93.5039967
+Manipur,Thoubal,"Thoubal, Manipur, India",24.6252503,94.0083522
+Manipur,Ukhrul,"Ukhrul, Manipur, India",25.3110738,94.4753775
+Meghalaya,East Garo Hills,"East Garo Hills, Meghalaya, India",25.6184946,90.6342162
+Meghalaya,East Jaintia Hills,"East Jaintia Hills, Meghalaya, India",25.2515761,92.4840501
+Meghalaya,East Khasi Hills,"East Khasi Hills, Meghalaya, India",25.4023736,91.8317178
+Meghalaya,Ri Bhoi,"Ri Bhoi, Meghalaya, India",25.8764026,91.8567574
+Meghalaya,South Garo Hills,"South Garo Hills, Meghalaya, India",25.347969,90.5657773
+Meghalaya,West Garo Hills,"West Garo Hills, Meghalaya, India",25.6063142,90.2113906
+Meghalaya,West Khasi Hills,"West Khasi Hills, Meghalaya, India",25.5814429,91.0851094
+Mizoram,Aizawl,"Aizawl, Mizoram, India",23.7433532,92.7382756
+Mizoram,Champhai,"Champhai, Mizoram, India",23.5443743,93.3479506
+Mizoram,Kolasib,"Kolasib, Mizoram, India",24.2312934,92.6766233
+Mizoram,Lawngtlai,"Lawngtlai, Mizoram, India",22.3913377,92.7397189
+Mizoram,Lunglei,"Lunglei, Mizoram, India",22.9519972,92.6338827
+Mizoram,Mamit,"Mamit, Mizoram, India",23.7564387,92.4515374
+Mizoram,Serchhip,"Serchhip, Mizoram, India",23.3052514,92.8455123
+Mizoram,Saiha,"Saiha, Mizoram, India",22.488034,92.9813358
+Nagaland,Dimapur,"Dimapur, Nagaland, India",25.9041378,93.7177609
+Nagaland,Kiphire,"Kiphire, Nagaland, India",25.8113822,94.8494968
+Nagaland,Kohima,"Kohima, Nagaland, India",25.6618755,94.1019156
+Nagaland,Longleng,"Longleng, Nagaland, India",26.5839315,94.8045481
+Nagaland,Mokokchung,"Mokokchung, Nagaland, India",26.4795861,94.5105275
+Nagaland,Mon,"Mon, Nagaland, India",26.666667,95.0
+Nagaland,Peren,"Peren, Nagaland, India",25.4502306,93.6001154
+Nagaland,Phek,"Phek, Nagaland, India",25.6514473,94.3809788
+Nagaland,Tuensang,"Tuensang, Nagaland, India",26.2342107,94.741553
+Nagaland,Wokha,"Wokha, Nagaland, India",26.2422509,94.1921153
+Nagaland,Zunheboto,"Zunheboto, Nagaland, India",26.0123802,94.5123719
+Odisha,Anugul,"Anugul, Odisha, India",20.8411255,85.0804007
+Odisha,Balangir,"Balangir, Odisha, India",20.6095183,83.1673029
+Odisha,Baleshwar,"Baleshwar, Odisha, India",21.5197916,86.8790638
+Odisha,Bargarh,"Bargarh, Odisha, India",21.2319922,83.5652737
+Odisha,Bhadrak,"Bhadrak, Odisha, India",20.9854052,86.5934226
+Odisha,Boudh,"Boudh, Odisha, India",20.6407463,83.9969704
+Odisha,Cuttack,"Cuttack, Odisha, India",20.4686,85.8792
+Odisha,Deogarh,"Deogarh, Odisha, India",21.5370786,84.7301184
+Odisha,Dhenkanal,"Dhenkanal, Odisha, India",20.8351494,85.6022305
+Odisha,Gajapati,"Gajapati, Odisha, India",19.1966026,84.1930634
+Odisha,Ganjam,"Ganjam, Odisha, India",19.6090067,84.7080633
+Odisha,Jagatsinghapur,"Jagatsinghapur, Odisha, India",20.1801473,86.3414874
+Odisha,Jajapur,"Jajapur, Odisha, India",20.8277892,86.3798353
+Odisha,Jharsuguda,"Jharsuguda, Odisha, India",21.8019368,83.9713964
+Odisha,Kalahandi,"Kalahandi, Odisha, India",19.8265756,83.0408702
+Odisha,Kandhamal,"Kandhamal, Odisha, India",20.1306939,84.0790476
+Odisha,Kendrapara,"Kendrapara, Odisha, India",20.5475164,86.5296168
+Odisha,Kendujhar,"Kendujhar, Odisha, India",21.5892323,85.6687841
+Odisha,Khordha,"Khordha, Odisha, India",20.0538149,85.5023308
+Odisha,Koraput,"Koraput, Odisha, India",18.7232023,82.6100596
+Odisha,Malkangiri,"Malkangiri, Odisha, India",18.2744685,81.9520316
+Odisha,Mayurbhanj,"Mayurbhanj, Odisha, India",21.9156338,86.3961824
+Odisha,Nabarangpur,"Nabarangpur, Odisha, India",19.2288319,82.5668344
+Odisha,Nayagarh,"Nayagarh, Odisha, India",20.2393682,85.050728
+Odisha,Nuapada,"Nuapada, Odisha, India",20.5412657,82.5292352
+Odisha,Puri,"Puri, Odisha, India",19.8076083,85.8252538
+Odisha,Rayagada,"Rayagada, Odisha, India",19.4426698,83.5873053
+Odisha,Sambalpur,"Sambalpur, Odisha, India",21.5570606,84.1528515
+Odisha,Sonepur,"Sonepur, Odisha, India",20.8453864,83.909083
+Odisha,Sundargarh,"Sundargarh, Odisha, India",22.0605153,83.9359154
+Puducherry,Pondicherry,"Pondicherry, Puducherry, India",11.9340568,79.8306447
+Puducherry,Karaikal,"Karaikal, Puducherry, India",10.91571,79.8375761
+Punjab,Amritsar,"Amritsar, Punjab, India",31.6356659,74.8787496
+Punjab,Ludhiana,"Ludhiana, Punjab, India",30.9090157,75.851601
+Punjab,Sangrur,"Sangrur, Punjab, India",30.135717,75.8533326
+Punjab,Hoshiarpur,"Hoshiarpur, Punjab, India",31.6092942,75.8459754
+Rajasthan,Ajmer,"Ajmer, Rajasthan, India",26.4691,74.639
+Rajasthan,Alwar,"Alwar, Rajasthan, India",27.4140048,76.6170387
+Rajasthan,Banswara,"Banswara, Rajasthan, India",23.4915046,74.3502172
+Rajasthan,Baran,"Baran, Rajasthan, India",24.9208165,76.6821985
+Rajasthan,Bharatpur,"Bharatpur, Rajasthan, India",27.0246959,77.2920116
+Rajasthan,Bhilwara,"Bhilwara, Rajasthan, India",25.4891177,74.3300726
+Rajasthan,Bundi,"Bundi, Rajasthan, India",25.4367659,75.7361471
+Rajasthan,Chittorgarh,"Chittorgarh, Rajasthan, India",24.7171578,74.4718129
+Rajasthan,Dausa,"Dausa, Rajasthan, India",26.8048658,76.4437457
+Rajasthan,Dholpur,"Dholpur, Rajasthan, India",26.7010642,77.896749
+Rajasthan,Dungarpur,"Dungarpur, Rajasthan, India",23.8538893,73.7087177
+Rajasthan,Ganganagar,"Ganganagar, Rajasthan, India",29.9049489,73.8792934
+Rajasthan,Hanumangarh,"Hanumangarh, Rajasthan, India",29.3659533,74.298429
+Rajasthan,Jaipur,"Jaipur, Rajasthan, India",26.9154576,75.8189817
+Rajasthan,Jhalawar,"Jhalawar, Rajasthan, India",24.3132368,76.5221078
+Rajasthan,Jhunjhunu,"Jhunjhunu, Rajasthan, India",28.0810679,75.3792478
+Rajasthan,Jodhpur,"Jodhpur, Rajasthan, India",26.2967719,73.0351433
+Rajasthan,Karauli,"Karauli, Rajasthan, India",26.4530971,77.0160461
+Rajasthan,Kota,"Kota, Rajasthan, India",25.1737019,75.8574194
+Rajasthan,Pali,"Pali, Rajasthan, India",25.455221,73.419389
+Rajasthan,Pratapgarh,"Pratapgarh, Rajasthan, India",24.0232221,74.6250275
+Rajasthan,Sawai Madhopur,"Sawai Madhopur, Rajasthan, India",26.1137182,76.4240637
+Rajasthan,Sikar,"Sikar, Rajasthan, India",27.6625058,75.0279905
+Rajasthan,Sirohi,"Sirohi, Rajasthan, India",24.8114047,72.8300257
+Rajasthan,Tonk,"Tonk, Rajasthan, India",26.122266,75.8238631
+Rajasthan,Udaipur,"Udaipur, Rajasthan, India",24.578721,73.6862571
+Rajasthan,Barmer,"Barmer, Rajasthan, India",25.5814853,71.1924922
+Rajasthan,Bikaner,"Bikaner, Rajasthan, India",28.0159286,73.3171367
+Rajasthan,Churu,"Churu, Rajasthan, India",28.2047781,74.6912996
+Rajasthan,Jaisalmer,"Jaisalmer, Rajasthan, India",26.9116615,70.9124888
+Rajasthan,Jalore,"Jalore, Rajasthan, India",25.2718629,72.4388121
+Rajasthan,Nagaur,"Nagaur, Rajasthan, India",26.9873443,73.7389011
+Rajasthan,Rajsamand,"Rajsamand, Rajasthan, India",25.2892459,73.8241077
+Tamil Nadu,Ariyalur,"Ariyalur, Tamil Nadu, India",11.1530559,79.2585797
+Tamil Nadu,Coimbatore,"Coimbatore, Tamil Nadu, India",11.0018115,76.9628425
+Tamil Nadu,Cuddalore,"Cuddalore, Tamil Nadu, India",11.520207,79.3396356
+Tamil Nadu,Dharmapuri,"Dharmapuri, Tamil Nadu, India",12.145613,78.1132217
+Tamil Nadu,Dindigul,"Dindigul, Tamil Nadu, India",10.4256896,77.815664
+Tamil Nadu,Erode,"Erode, Tamil Nadu, India",11.4905281,77.3505274
+Tamil Nadu,Kanchipuram,"Kanchipuram, Tamil Nadu, India",12.9647163,79.9839686
+Tamil Nadu,Kanniyakumari,"Kanniyakumari, Tamil Nadu, India",8.3279814,77.3541173
+Tamil Nadu,Karur,"Karur, Tamil Nadu, India",10.8217671,78.3828654
+Tamil Nadu,Krishnagiri,"Krishnagiri, Tamil Nadu, India",12.5152075,78.0093769
+Tamil Nadu,Madurai,"Madurai, Tamil Nadu, India",9.9261153,78.1140983
+Tamil Nadu,Namakkal,"Namakkal, Tamil Nadu, India",11.3033889,78.118604
+Tamil Nadu,Perambalur,"Perambalur, Tamil Nadu, India",11.2902641,78.9300404
+Tamil Nadu,Pudukkottai,"Pudukkottai, Tamil Nadu, India",10.2903072,78.8173617
+Tamil Nadu,Ramanathapuram,"Ramanathapuram, Tamil Nadu, India",9.5205576,78.5184635
+Tamil Nadu,Salem,"Salem, Tamil Nadu, India",11.6469616,78.2106958
+Tamil Nadu,Sivaganga,"Sivaganga, Tamil Nadu, India",9.8486881,78.4870461
+Tamil Nadu,Thanjavur,"Thanjavur, Tamil Nadu, India",10.659037,79.2014278
+Tamil Nadu,Theni,"Theni, Tamil Nadu, India",9.8692558,77.4222974
+Tamil Nadu,Thiruvallur,"Thiruvallur, Tamil Nadu, India",13.2537619,80.0562572
+Tamil Nadu,Tiruchirappalli,"Tiruchirappalli, Tamil Nadu, India",10.8071144,78.6880939
+Tamil Nadu,Tirunelveli,"Tirunelveli, Tamil Nadu, India",8.7284271,77.7112925
+Tamil Nadu,Tiruppur,"Tiruppur, Tamil Nadu, India",10.7915267,77.5325466
+Tamil Nadu,Tiruvannamalai,"Tiruvannamalai, Tamil Nadu, India",12.4289282,78.99915
+Tamil Nadu,Tuticorin,"Tuticorin, Tamil Nadu, India",8.8052602,78.1452745
+Tamil Nadu,Vellore,"Vellore, Tamil Nadu, India",12.9021849,79.061104
+Tamil Nadu,Villupuram,"Villupuram, Tamil Nadu, India",11.9398285,79.4945645
+Tamil Nadu,Virudhunagar,"Virudhunagar, Tamil Nadu, India",9.4926289,77.8631831
+Tamil Nadu,Nagapattinam,"Nagapattinam, Tamil Nadu, India",10.6026202,79.7619348
+Tamil Nadu,The Nilgiris,"The Nilgiris, Tamil Nadu, India",11.4,76.7
+Tamil Nadu,Thiruvarur,"Thiruvarur, Tamil Nadu, India",10.6878621,79.4979437
+The Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,"Dadra And Nagar Haveli, The Dadra And Nagar Haveli And Daman And Diu, India",20.20651,73.00811
+Tripura,Dhalai,"Dhalai, Tripura, India",23.8253158,91.9732227
+Tripura,North Tripura,"North Tripura, Tripura, India",24.0921476,92.2451214
+Tripura,South Tripura,"South Tripura, Tripura, India",23.1708278,91.638817
+Tripura,West Tripura,"West Tripura, Tripura, India",23.9153328,91.3879341
+Uttar Pradesh,Agra,"Agra, Uttar Pradesh, India",27.1752554,78.0098161
+Uttar Pradesh,Aligarh,"Aligarh, Uttar Pradesh, India",27.8761073,78.1358153
+Uttar Pradesh,Allahabad,"Allahabad, Uttar Pradesh, India",25.4381302,81.8338005
+Uttar Pradesh,Ambedkar Nagar,"Ambedkar Nagar, Uttar Pradesh, India",26.4045941,82.6065154
+Uttar Pradesh,Amroha,"Amroha, Uttar Pradesh, India",28.7952632,78.3436244
+Uttar Pradesh,Auraiya,"Auraiya, Uttar Pradesh, India",26.6558215,79.5160757
+Uttar Pradesh,Azamgarh,"Azamgarh, Uttar Pradesh, India",26.023639,83.0293105
+Uttar Pradesh,Baghpat,"Baghpat, Uttar Pradesh, India",29.0374779,77.3062737
+Uttar Pradesh,Bahraich,"Bahraich, Uttar Pradesh, India",27.7343823,81.47654
+Uttar Pradesh,Ballia,"Ballia, Uttar Pradesh, India",25.8749594,84.1210329
+Uttar Pradesh,Balrampur,"Balrampur, Uttar Pradesh, India",27.4476988,82.3956245
+Uttar Pradesh,Banda,"Banda, Uttar Pradesh, India",25.4438537,80.5595237
+Uttar Pradesh,Barabanki,"Barabanki, Uttar Pradesh, India",26.9421406,81.3856087
+Uttar Pradesh,Bareilly,"Bareilly, Uttar Pradesh, India",28.4582344,79.4047452
+Uttar Pradesh,Basti,"Basti, Uttar Pradesh, India",26.8387083,82.5350919
+Uttar Pradesh,Bijnor,"Bijnor, Uttar Pradesh, India",29.4074203,78.4821406
+Uttar Pradesh,Budaun,"Budaun, Uttar Pradesh, India",28.0367001,79.1234
+Uttar Pradesh,Bulandshahr,"Bulandshahr, Uttar Pradesh, India",28.3874073,77.9743805
+Uttar Pradesh,Chandauli,"Chandauli, Uttar Pradesh, India",25.125695,83.2494601
+Uttar Pradesh,Chitrakoot,"Chitrakoot, Uttar Pradesh, India",25.2171389,81.1045927
+Uttar Pradesh,Deoria,"Deoria, Uttar Pradesh, India",26.4239911,83.7638578
+Uttar Pradesh,Etah,"Etah, Uttar Pradesh, India",27.5550357,78.5992221
+Uttar Pradesh,Etawah,"Etawah, Uttar Pradesh, India",26.7155629,79.0917098
+Uttar Pradesh,Faizabad,"Faizabad, Uttar Pradesh, India",26.7807986,82.1486589
+Uttar Pradesh,Farrukhabad,"Farrukhabad, Uttar Pradesh, India",27.4362002,79.4894778
+Uttar Pradesh,Fatehpur,"Fatehpur, Uttar Pradesh, India",25.8348023,80.9154547
+Uttar Pradesh,Firozabad,"Firozabad, Uttar Pradesh, India",27.1941954,78.4604956
+Uttar Pradesh,Gautam Buddha Nagar,"Gautam Buddha Nagar, Uttar Pradesh, India",28.3687159,77.5970121
+Uttar Pradesh,Ghaziabad,"Ghaziabad, Uttar Pradesh, India",28.7749966,77.4586967
+Uttar Pradesh,Ghazipur,"Ghazipur, Uttar Pradesh, India",25.6034862,83.5075888
+Uttar Pradesh,Gonda,"Gonda, Uttar Pradesh, India",27.1103723,81.9238906
+Uttar Pradesh,Gorakhpur,"Gorakhpur, Uttar Pradesh, India",26.6677977,83.3642334
+Uttar Pradesh,Hamirpur,"Hamirpur, Uttar Pradesh, India",25.75,80.0
+Uttar Pradesh,Hardoi,"Hardoi, Uttar Pradesh, India",27.3369978,80.0998232
+Uttar Pradesh,Hathras,"Hathras, Uttar Pradesh, India",27.5724324,78.1116209
+Uttar Pradesh,Jalaun,"Jalaun, Uttar Pradesh, India",26.1048633,79.3919136
+Uttar Pradesh,Jaunpur,"Jaunpur, Uttar Pradesh, India",25.7967065,82.4888992
+Uttar Pradesh,Jhansi,"Jhansi, Uttar Pradesh, India",25.529855,78.6527802
+Uttar Pradesh,Kannauj,"Kannauj, Uttar Pradesh, India",26.9986675,79.6927946
+Uttar Pradesh,Kanpur Dehat,"Kanpur Dehat, Uttar Pradesh, India",26.4585639,79.8548052
+Uttar Pradesh,Kanpur Nagar,"Kanpur Nagar, Uttar Pradesh, India",26.4410107,80.2652803
+Uttar Pradesh,Kasganj,"Kasganj, Uttar Pradesh, India",27.7888527,78.8229701
+Uttar Pradesh,Kaushambi,"Kaushambi, Uttar Pradesh, India",25.5342456,81.4493567
+Uttar Pradesh,Kheri,"Kheri, Uttar Pradesh, India",28.116667,80.716667
+Uttar Pradesh,Kushi Nagar,"Kushi Nagar, Uttar Pradesh, India",26.74028,83.88889
+Uttar Pradesh,Lalitpur,"Lalitpur, Uttar Pradesh, India",24.6999688,78.51862
+Uttar Pradesh,Lucknow,"Lucknow, Uttar Pradesh, India",26.8381,80.9346001
+Uttar Pradesh,Maharajganj,"Maharajganj, Uttar Pradesh, India",27.0936024,83.5660681
+Uttar Pradesh,Mahoba,"Mahoba, Uttar Pradesh, India",25.3615938,79.706011
+Uttar Pradesh,Mainpuri,"Mainpuri, Uttar Pradesh, India",27.2093072,79.0625369
+Uttar Pradesh,Mathura,"Mathura, Uttar Pradesh, India",27.4955539,77.6855554
+Uttar Pradesh,Mau,"Mau, Uttar Pradesh, India",26.0390904,83.4985846
+Uttar Pradesh,Meerut,"Meerut, Uttar Pradesh, India",29.0018557,77.7679671
+Uttar Pradesh,Mirzapur,"Mirzapur, Uttar Pradesh, India",24.9316896,82.6280163
+Uttar Pradesh,Moradabad,"Moradabad, Uttar Pradesh, India",28.8796553,78.8095335
+Uttar Pradesh,Muzaffarnagar,"Muzaffarnagar, Uttar Pradesh, India",29.4496978,77.7429333
+Uttar Pradesh,Pilibhit,"Pilibhit, Uttar Pradesh, India",28.4947158,80.1076122
+Uttar Pradesh,Pratapgarh,"Pratapgarh, Uttar Pradesh, India",25.75,81.75
+Uttar Pradesh,Rae Bareli,"Rae Bareli, Uttar Pradesh, India",26.25,81.25
+Uttar Pradesh,Rampur,"Rampur, Uttar Pradesh, India",28.7934728,79.1845806
+Uttar Pradesh,Saharanpur,"Saharanpur, Uttar Pradesh, India",29.9856799,77.5040646
+Uttar Pradesh,Sant Kabeer Nagar,"Sant Kabeer Nagar, Uttar Pradesh, India",26.79016,83.03481
+Uttar Pradesh,Sant Ravidas Nagar,"Sant Ravidas Nagar, Uttar Pradesh, India",25.3574077,82.5002953
+Uttar Pradesh,Shahjahanpur,"Shahjahanpur, Uttar Pradesh, India",27.9128583,79.7476254
+Uttar Pradesh,Shravasti,"Shravasti, Uttar Pradesh, India",27.5083429,82.0263569
+Uttar Pradesh,Siddharth Nagar,"Siddharth Nagar, Uttar Pradesh, India",27.2752892,83.0675485
+Uttar Pradesh,Sitapur,"Sitapur, Uttar Pradesh, India",27.5026747,80.8335139
+Uttar Pradesh,Sonbhadra,"Sonbhadra, Uttar Pradesh, India",24.4148159,83.0637517
+Uttar Pradesh,Sultanpur,"Sultanpur, Uttar Pradesh, India",26.2604732,82.2380532
+Uttar Pradesh,Unnao,"Unnao, Uttar Pradesh, India",26.5673264,80.6198193
+Uttar Pradesh,Varanasi,"Varanasi, Uttar Pradesh, India",25.3356491,83.0076292
+Uttar Pradesh,Amethi,"Amethi, Uttar Pradesh, India",26.346274,81.6252039
+Uttarakhand,Almora,"Almora, Uttarakhand, India",29.7026509,79.4326318
+Uttarakhand,Chamoli,"Chamoli, Uttarakhand, India",30.4985956,79.6190537
+Uttarakhand,Champawat,"Champawat, Uttarakhand, India",29.235032,80.1023068
+Uttarakhand,Dehradun,"Dehradun, Uttarakhand, India",30.3255646,78.0436813
+Uttarakhand,Haridwar,"Haridwar, Uttarakhand, India",29.9384473,78.1452985
+Uttarakhand,Nainital,"Nainital, Uttarakhand, India",29.3905295,79.460869
+Uttarakhand,Pauri Garhwal,"Pauri Garhwal, Uttarakhand, India",29.8473168,78.7070479
+Uttarakhand,Pithoragarh,"Pithoragarh, Uttarakhand, India",29.585871,80.215167
+Uttarakhand,Rudra Prayag,"Rudra Prayag, Uttarakhand, India",30.60872,79.06517
+Uttarakhand,Tehri Garhwal,"Tehri Garhwal, Uttarakhand, India",30.4658181,78.4837349
+Uttarakhand,Uttar Kashi,"Uttar Kashi, Uttarakhand, India",30.72986,78.44342
+Uttarakhand,Bageshwar,"Bageshwar, Uttarakhand, India",30.0087902,79.9280183
+Uttarakhand,Udam Singh Nagar,"Udam Singh Nagar, Uttarakhand, India",29.0,79.4167
+West Bengal,South 24 Parganas,"South 24 Parganas, West Bengal, India",22.1776733,88.5307853
+West Bengal,Darjeeling,"Darjeeling, West Bengal, India",27.0377554,88.263176
+West Bengal,Uttar Dinajpur,"Uttar Dinajpur, West Bengal, India",25.8721428,87.961986
+West Bengal,Jalpaiguri,"Jalpaiguri, West Bengal, India",26.6262804,88.7334485
+West Bengal,Maldah,"Maldah, West Bengal, India",25.0977097,88.1261713
+West Bengal,Pashchim Medinipur,"Pashchim Medinipur, West Bengal, India",22.42,87.32
+West Bengal,Murshidabad,"Murshidabad, West Bengal, India",24.1745993,88.2721335
+West Bengal,Nadia,"Nadia, West Bengal, India",23.4847374,88.5567067
+West Bengal,Purba Bardhaman,"Purba Bardhaman, West Bengal, India",23.3884088,87.9606763
+West Bengal,Purulia,"Purulia, West Bengal, India",23.2020967,86.3228988
+West Bengal,Bankura,"Bankura, West Bengal, India",23.132377,87.2081925
+West Bengal,Birbhum,"Birbhum, West Bengal, India",24.0621532,87.6982823
+West Bengal,North 24 Parganas,"North 24 Parganas, West Bengal, India",22.6926815,88.6625795
+West Bengal,Coochbehar,"Coochbehar, West Bengal, India",26.340623,89.4812163
+West Bengal,Dakshin Dinajpur,"Dakshin Dinajpur, West Bengal, India",25.385807,88.5063362
+West Bengal,Hooghly,"Hooghly, West Bengal, India",22.9099402,88.0120825
+West Bengal,Howrah,"Howrah, West Bengal, India",22.5736296,88.3251045
+West Bengal,Purba Medinipur,"Purba Medinipur, West Bengal, India",22.0648451,87.8377586
+Chhattisgarh,Balod,"Balod, Chhattisgarh, India",20.7277192,81.1446948
+Chhattisgarh,Baloda Bazar,"Baloda Bazar, Chhattisgarh, India",21.5731848,82.2994821
+Chhattisgarh,Balrampur,"Balrampur, Chhattisgarh, India",23.6282576,83.4810916
+Chhattisgarh,Bemetara,"Bemetara, Chhattisgarh, India",21.6783867,81.4412578
+Chhattisgarh,Gariyaband,"Gariyaband, Chhattisgarh, India",20.526756,82.1917217
+Chhattisgarh,Kondagaon,"Kondagaon, Chhattisgarh, India",19.5885769,81.6628742
+Chhattisgarh,Mungeli,"Mungeli, Chhattisgarh, India",22.0661098,81.6874282
+Chhattisgarh,Sukma,"Sukma, Chhattisgarh, India",18.2665423,81.2925234
+Chhattisgarh,Surajpur,"Surajpur, Chhattisgarh, India",23.3577769,82.9761277
+Tripura,Gomati,"Gomati, Tripura, India",23.4987407,91.2999111
+Tripura,Khowai,"Khowai, Tripura, India",23.9563913,91.642107
+Tripura,Sepahijala,"Sepahijala, Tripura, India",23.6658004,91.3200275
+Tripura,Unakoti,"Unakoti, Tripura, India",24.1909848,92.0460483
+Uttar Pradesh,Hapur,"Hapur, Uttar Pradesh, India",28.7166767,77.890433
+Uttar Pradesh,Sambhal,"Sambhal, Uttar Pradesh, India",28.4271927,78.5564546
+Uttar Pradesh,Shamli,"Shamli, Uttar Pradesh, India",29.4811507,77.2901344
+Madhya Pradesh,Agar Malwa,"Agar Malwa, Madhya Pradesh, India",23.935092,76.1449595
+Meghalaya,North Garo Hills,"North Garo Hills, Meghalaya, India",25.8619841,90.7017705
+Meghalaya,South West Garo Hills,"South West Garo Hills, Meghalaya, India",25.444631,89.9969655
+Meghalaya,South West Khasi Hills,"South West Khasi Hills, Meghalaya, India",25.3307221,91.3217388
+Meghalaya,West Jaintia Hills,"West Jaintia Hills, Meghalaya, India",25.4425965,92.2988275
+Telangana,Karimnagar,"Karimnagar, Telangana, India",18.4348122,79.1328042
+Telangana,Khammam,"Khammam, Telangana, India",17.2465351,80.1500326
+Telangana,Medak,"Medak, Telangana, India",17.9375095,78.211745
+Telangana,Nalgonda,"Nalgonda, Telangana, India",16.8579636,79.2174935
+Telangana,Nizamabad,"Nizamabad, Telangana, India",18.6732693,78.0978477
+Telangana,Warangal,"Warangal, Telangana, India",17.9820644,79.5970954
+Arunachal Pradesh,Namsai,"Namsai, Arunachal Pradesh, India",27.7140306,96.0159709
+Gujarat,Aravalli,"Aravalli, Gujarat, India",23.4843216,73.3986096
+Gujarat,Botad,"Botad, Gujarat, India",22.0467097,71.6689617
+Gujarat,Chhotaudepur,"Chhotaudepur, Gujarat, India",22.3167,74.0167
+Gujarat,Gir Somnath,"Gir Somnath, Gujarat, India",20.9298181,70.7627578
+Gujarat,Mahisagar,"Mahisagar, Gujarat, India",23.1912194,73.6644398
+Gujarat,Devbhumi Dwarka,"Devbhumi Dwarka, Gujarat, India",22.2475106,68.968244
+Gujarat,Morbi,"Morbi, Gujarat, India",22.8003959,70.886232
+West Bengal,Alipurduar,"Alipurduar, West Bengal, India",26.4851573,89.5246926
+Arunachal Pradesh,Siang,"Siang, Arunachal Pradesh, India",28.477492,94.8165573
+Telangana,Bhadradri,"Bhadradri, Telangana, India",17.7166632,80.5712609
+Telangana,Jangoan,"Jangoan, Telangana, India",17.7557919,79.1323896
+Telangana,Jayashankar,"Jayashankar, Telangana, India",18.5159872,79.9693966
+Telangana,Jogulamba,"Jogulamba, Telangana, India",16.0999202,77.7341584
+Telangana,Kamareddy,"Kamareddy, Telangana, India",18.316551,78.0539381
+Telangana,Komaram Bheem Asifabad,"Komaram Bheem Asifabad, Telangana, India",19.3338189,79.4219793
+Telangana,Mahabubabad,"Mahabubabad, Telangana, India",17.7138983,80.0413425
+Telangana,Mancherial,"Mancherial, Telangana, India",18.9812967,79.5198096
+Telangana,Nagarkurnool,"Nagarkurnool, Telangana, India",16.4157626,78.6830433
+Telangana,Nirmal,"Nirmal, Telangana, India",19.091521,78.396609
+Telangana,Sangareddy,"Sangareddy, Telangana, India",17.8684342,77.8227189
+Telangana,Siddipet,"Siddipet, Telangana, India",18.0055851,78.896113
+Telangana,Vikarabad,"Vikarabad, Telangana, India",17.2702855,77.745297
+Telangana,Wanaparthy,"Wanaparthy, Telangana, India",16.2852944,77.9864473
+Telangana,Yadadri,"Yadadri, Telangana, India",17.5840567,78.9467282

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <meta charset="UTF-8">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body { font-family: Arial; margin: 40px; }
+        #chart { width: 100%; height: 600px; }
+    </style>
+
+</head>
+<body>
+    <h2>Predicted Crop Yield:</h2>
+    {% for i in prediction.keys()%}
+       <h3>Crop Yield For {{ i }} : {{prediction[i]}}Tonnes/ha</h3>
+    {% endfor %}
+    
+    <h2>Interactive Weather Data Plot</h2>
+    <div id="chart"></div>
+
+    <script>
+        const data = {{ data | tojson }};
+        
+        const dates = data.map(row => row.date);
+        const temperature = data.map(row => row.temperature_2m_mean);
+        const humidity = data.map(row => row.relative_humidity_2m_mean);
+        const precipitation = data.map(row => row.precipitation_sum);
+        const wind_speed = data.map(row => row.wind_speed_10m_mean);
+
+        function mean(arr) {
+            return arr.reduce((a, b) => a + b, 0) / arr.length;
+        }
+
+        const traces = [
+            {
+                x: dates,
+                y: temperature,
+                mode: 'lines+markers',
+                name: 'Temperature (°C)',
+                line: { color: 'red' },
+                hovertemplate: '%{x}<br>Temperature: %{y}°C<extra></extra>'
+            },
+            {
+                x: dates,
+                y: humidity,
+                mode: 'lines+markers',
+                name: 'Humidity (%)',
+                line: { color: 'blue' },
+                hovertemplate: '%{x}<br>Humidity: %{y}%<extra></extra>'
+            },
+            {
+                x: dates,
+                y: precipitation,
+                mode: 'lines+markers',
+                name: 'Precipitation (mm)',
+                line: { color: 'green' },
+                hovertemplate: '%{x}<br>Precipitation: %{y}mm<extra></extra>'
+            },
+            {
+                x: dates,
+                y: wind_speed,
+                mode: 'lines+markers',
+                name: 'Wind Speed (m/s)',
+                line: { color: 'orange' },
+                hovertemplate: '%{x}<br>Wind Speed: %{y}m/s<extra></extra>'
+            },
+
+            // Mean lines
+            {
+                x: dates,
+                y: Array(dates.length).fill(mean(temperature)),
+                mode: 'lines',
+                name: 'Mean Temp',
+                line: { dash: 'dash', color: 'red' },
+                showlegend: false
+            },
+            {
+                x: dates,
+                y: Array(dates.length).fill(mean(humidity)),
+                mode: 'lines',
+                name: 'Mean Humidity',
+                line: { dash: 'dash', color: 'blue' },
+                showlegend: false
+            },
+            {
+                x: dates,
+                y: Array(dates.length).fill(mean(precipitation)),
+                mode: 'lines',
+                name: 'Mean Precipitation',
+                line: { dash: 'dash', color: 'green' },
+                showlegend: false
+            },
+            {
+                x: dates,
+                y: Array(dates.length).fill(mean(wind_speed)),
+                mode: 'lines',
+                name: 'Mean Wind Speed',
+                line: { dash: 'dash', color: 'orange' },
+                showlegend: false
+            }
+        ];
+
+        Plotly.newPlot('chart', traces, {
+            title: 'Date vs Weather Parameters',
+            xaxis: { title: 'Date' },
+            yaxis: { title: 'Values' },
+            hovermode: 'x unified'
+        });
+    </script>
+    <a href="/">Predict Again</a>
+</body>
+</html>
