@@ -2,6 +2,43 @@
 <html>
 <head>
     <title>Crop Yield Predictor</title>
+    <style>
+        body {
+                background-image: url('https://okcredit-blog-images-prod.storage.googleapis.com/2020/10/shutterstock_1484680373.jpg');
+                background-size: cover; /* This makes the image cover the entire background */
+                background-repeat: no-repeat; /* This prevents the image from repeating */
+                background-position: center; /* This centers the image */
+            }
+
+        h2 {
+                color:rgb(10, 10, 10);
+            }
+        .container {
+            width: 40%;
+            margin-left:0;
+            padding: 40px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            
+        }
+        input, select, button {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        
+    </style>
     <script>
         function updateDistricts() {
             const state = document.getElementById("state").value;
@@ -32,59 +69,60 @@
     <h2>Crop Yield Prediction</h2>
 
    
-
-    <form method="POST">
-        <label>State:</label>
-        <select name="state" id="state" required onchange="updateDistricts()">
-            <option value="">Select State</option>
-            {% for state in state_list %}
-                <option value="{{ state }}" {% if state == selected_state %}selected{% endif %}>{{ state }}</option>
-            {% endfor %}
-        </select><br><br>
-
-        <label>District:</label>
-        <select name="district" id="district" required>
-            {% if selected_state %}
-                {% for district in district_dict[selected_state] %}
-                    <option value="{{ district }}" {% if district == selected_district %}selected{% endif %}>{{ district }}</option>
+    <div class="container">
+        <form method="POST">
+            <label>State:</label>
+            <select name="state" id="state" required onchange="updateDistricts()">
+                <option value="">Select State</option>
+                {% for state in state_list %}
+                    <option value="{{ state }}" {% if state == selected_state %}selected{% endif %}>{{ state }}</option>
                 {% endfor %}
-            {% else %}
-                <option value="">Select District</option>
-            {% endif %}
-        </select><br><br>
+            </select><br><br>
 
-        <label>Crop Year:</label>
-        <input type="number" name="crop_year" required><br><br>
+            <label>District:</label>
+            <select name="district" id="district" required>
+                {% if selected_state %}
+                    {% for district in district_dict[selected_state] %}
+                        <option value="{{ district }}" {% if district == selected_district %}selected{% endif %}>{{ district }}</option>
+                    {% endfor %}
+                {% else %}
+                    <option value="">Select District</option>
+                {% endif %}
+            </select><br><br>
 
-        <label>Season:</label>
-        <select name="season" required>
-            {% for season in season_list %}
-                <option value="{{ season }}">{{ season }}</option>
-            {% endfor %}
-        </select><br><br>
+            <label>Crop Year:</label>
+            <input type="number" name="crop_year" required><br><br>
 
-        <label>Crop:</label>
-        <select id = "crop-select" name="crop" multiple required>
-            {% for crop in crop_list %}
-                <option value="{{ crop }}">{{ crop }}</option>
-            {% endfor %}
-        </select><br><br>
+            <label>Season:</label>
+            <select name="season" required>
+                {% for season in season_list %}
+                    <option value="{{ season }}">{{ season }}</option>
+                {% endfor %}
+            </select><br><br>
 
-        <label>Area (hectares):</label>
-        <input type="number" name="area" required><br><br>
-        <input type="submit" value="Predict">
-    </form>
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            new Choices('#crop-select', {
-            removeItemButton: true,
-            placeholderValue: 'Select crops',
-            maxItemCount: 50,
-            searchResultLimit: 10,
-            renderChoiceLimit: 25
+            <label>Crop:</label>
+            <select id = "crop-select" name="crop" multiple required>
+                {% for crop in crop_list %}
+                    <option value="{{ crop }}">{{ crop }}</option>
+                {% endfor %}
+            </select><br><br>
+
+            <label>Area (hectares):</label>
+            <input type="number" name="area" required><br><br>
+            <button type="submit">Predict Yield</button>
+        </form>
+        <script width="10%" height="40%">
+            document.addEventListener('DOMContentLoaded', function () {
+                new Choices('#crop-select', {
+                removeItemButton: true,
+                placeholderValue: 'Select crops',
+                maxItemCount: 50,
+                searchResultLimit: 10,
+                renderChoiceLimit: 25
+                });
             });
-        });
-    </script>
+        </script>
+    </div>
 </body>
 </html>
 
