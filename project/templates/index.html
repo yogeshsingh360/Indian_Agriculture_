@@ -91,7 +91,7 @@
             </select><br><br>
 
             <label>Crop Year:</label>
-            <input type="number" name="crop_year" required><br><br>
+            <input type="number" name="crop_year" mini = "2018" required><br><br>
 
             <label>Season:</label>
             <select name="season" required>
@@ -108,7 +108,7 @@
             </select><br><br>
 
             <label>Area (hectares):</label>
-            <input type="number" name="area" required><br><br>
+            <input  type="number" mini = "1" name="area" required><br><br>
             <button type="submit">Predict Yield</button>
         </form>
         <script width="10%" height="40%">
@@ -116,9 +116,9 @@
                 new Choices('#crop-select', {
                 removeItemButton: true,
                 placeholderValue: 'Select crops',
-                maxItemCount: 50,
+                maxItemCount: 100,
                 searchResultLimit: 10,
-                renderChoiceLimit: 25
+                renderChoiceLimit: 150
                 });
             });
         </script>
