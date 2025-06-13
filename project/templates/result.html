@@ -6,7 +6,15 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <style>
         body { font-family: Arial; margin: 40px; }
-        #chart { width: 100%; height: 600px; }
+        #chart { width: 50%; height: 600px; }
+        #back {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
     </style>
 
 </head>
@@ -17,7 +25,7 @@
     {% endfor %}
     
     <h2>Interactive Weather Data Plot</h2>
-    <div id="chart"></div>
+    <div id="chart" ></div>
 
     <script>
         const data = {{ data | tojson }};
@@ -108,6 +116,6 @@
             hovermode: 'x unified'
         });
     </script>
-    <a href="/">Predict Again</a>
+    <button id = "back" ><a href="/">Predict Again</a> </button>
 </body>
 </html>
