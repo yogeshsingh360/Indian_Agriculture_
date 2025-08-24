@@ -1,10 +1,12 @@
 import requests
 import pandas as pd
 import time
-
+import os
 from catboost import Pool, CatBoostRegressor
 import numpy as np
-data_df = pd.read_csv("final_data_for_web.csv")
+BASE_DIR = os.path.dirname(__file__)
+CSV_PATH = os.path.join(BASE_DIR, "final_data_for_web.csv")
+data_df = data_df = pd.read_csv(CSV_PATH)
 # Load model
 model = CatBoostRegressor()
 model.load_model("Helper/catboost_best_model.cbm")
