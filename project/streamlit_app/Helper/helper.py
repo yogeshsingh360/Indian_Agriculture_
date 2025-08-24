@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 import time
-from tqdm import tqdm
+
 from catboost import Pool, CatBoostRegressor
 import numpy as np
 data_df = pd.read_csv("final_data_for_web.csv")
