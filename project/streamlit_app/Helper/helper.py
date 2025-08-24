@@ -8,8 +8,11 @@ BASE_DIR = os.path.dirname(__file__)
 CSV_PATH = os.path.join(BASE_DIR, "final_data_for_web.csv")
 data_df = data_df = pd.read_csv(CSV_PATH)
 # Load model
+MODEL_BASE_DIR = os.path.dirname(__file__)
+MODEL_PATH = os.path.join(MODEL_BASE_DIR, "catboost_best_model.cbm")
+
 model = CatBoostRegressor()
-model.load_model("Helper/catboost_best_model.cbm")
+model.load_model(MODEL_PATH)
 def extraction_lat_lon_values(state,district):
     data_df = pd.read_csv("final_data_for_web.csv")
     location_row = data_df[
