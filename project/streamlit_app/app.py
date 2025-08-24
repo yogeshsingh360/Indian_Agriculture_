@@ -102,20 +102,42 @@ def show_result():
     
     lat,lon = hp.extraction_lat_lon_values(st.session_state.state,st.session_state.district)
     env_data = hp.api_data(st.session_state.year,st.session_state.season.lower(),lat,lon)
-    data_for_prediction = {
-                "crop_year": st.session_state.year,
-                "season": st.session_state.season,
-                "crop": st.session_state.crop,
-                "area": np.log1p(hp.unit_conversion(st.session_state.area,st.session_state.UnitOfArea)),
-                "temperature_2m_mean": env_data["temperature_2m_mean"].mean(),
-                "precipitation_sum": env_data["precipitation_sum"].mean(),
-                "relative_humidity_2m_mean": env_data["relative_humidity_2m_mean"].mean(),
-                "wind_speed_10m_mean": env_data["wind_speed_10m_mean"].mean(),
-                "latitude": lat,
-                "longitude": lon,
-        
-             }
-    st.write(hp.predicction(data_for_prediction))
+    try:
+        data_for_prediction = {
+                    "crop_year": st.session_state.year,
+                    "season": st.session_state.season,
+                    "crop": st.session_state.crop,
+                    "area": np.log1p(hp.unit_conversion(st.session_state.area,st.session_state.UnitOfArea)),
+                    "temperature_2m_mean": env_data["temperature_2m_mean"].mean(),
+                    "precipitation_sum": env_data["precipitation_sum"].mean(),
+                    "relative_humidity_2m_mean": env_data["relative_humidity_2m_mean"].mean(),
+                    "wind_speed_10m_mean": env_data["wind_speed_10m_mean"].mean(),
+                    "latitude": lat,
+                    "longitude": lon,
+            
+                }
+    except TypeError:
+        st.info(
+                "ℹ️ This app is **hypothetical** as of now. "
+                "It can only predict up to the **last season passed** due to API limits. "
+                "We are currently working on our own API, and once it's ready, "
+                "this application will become usable in **real-time**.\n\n"
+                "👉 For now, you can only predict up to the last completed season."
+               )
+        if st.button("🔄 Rerun App"):
+            st.session_state.submit = False
+            st.rerun()
+    prediction = hp.predicction(data_for_prediction)
+    st.title("Estimated Crop Yield And Production")
+    df = pd.DataFrame(prediction)
+    df["Yield"] = df["Yield"]/hp.conversion_factor_Ha_to_X(st.session_state.UnitOfArea)
+    df["Production (Ton)"] = df["Yield"] * st.session_state.area
+    df.rename(columns = {"Yield":f"Yield (Ton/{st.session_state.UnitOfArea})"},inplace = True)
+    
+    st.dataframe(df,hide_index = True)
+    
+    st.line_chart(env_data,x = "date",y =["temperature_2m_mean","precipitation_sum","relative_humidity_2m_mean","wind_speed_10m_mean"])
+    
 # --- App Flow ---
 if not st.session_state.submit:
     show_input_form()

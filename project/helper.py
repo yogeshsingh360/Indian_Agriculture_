@@ -79,28 +79,3 @@ def predicction(data) :
         pred = np.expm1(pred_log[0])
         pred_dict[i] = round(pred, 3)
     return pred_dict
-def unit_conversion(land_area,area_unit):
-    conversion_factors = {
-        'ha': 1,
-        'sq_m': 1 / 10000,          
-        'sq_km': 100,                
-        'acre': 0.4046856422,        
-        'sq_ft': 0.0000092903,       
-        'sq_yd': 0.0000836127,
-        'gaj'  : 0.0000836,
-        'kanal': 0.0505857,
-        'bigha' : 0.1011714,
-        'biswa':0.0050586,
-        'killa' : 0.4046856,
-        'lessa' :0.0002529,
-        'dhur' : 0.0002529,
-        'pura' :0.4046856,
-        'chatak':0.0004181,
-        'marla':0.0025293,
-        'katha': 0.0050586,
-        'ground':0.0223000,
-        'cent':0.0040465,
-        'murabba':10.1171411,
-        'guntha':0.0101171,
-        'karam':0.0002810} 
-     

@@ -7,7 +7,7 @@ import numpy as np
 data_df = pd.read_csv("final_data_for_web.csv")
 # Load model
 model = CatBoostRegressor()
-model.load_model("catboost_best_model.cbm")
+model.load_model("Helper/catboost_best_model.cbm")
 def extraction_lat_lon_values(state,district):
     data_df = pd.read_csv("final_data_for_web.csv")
     location_row = data_df[
@@ -93,7 +93,7 @@ def api_data(year,season,lat,lon):
     except Exception as e:
         return []
 def predicction(data) :
-    pred_dict = {}
+    pred_list = []
     for i in data["crop"]:
         input_data = pd.DataFrame([{
             "crop_year": data["crop_year"],
@@ -110,8 +110,8 @@ def predicction(data) :
         input_pool = Pool(input_data, cat_features=["season", "crop"])
         pred_log = model.predict(input_pool)
         pred = np.expm1(pred_log[0])
-        pred_dict[i] = round(pred, 3)
-    return pred_dict 
+        pred_list.append({"Crop" : i,"Yield" : round(pred,3)})
+    return pred_list 
 def unit_conversion(land_area,area_unit):
     conversion_factors = {
         'ha': 1,
@@ -137,5 +137,31 @@ def unit_conversion(land_area,area_unit):
         'guntha':0.0101171,
         'karam':0.0002810} 
     return land_area*conversion_factors[area_unit]
+def conversion_factor_Ha_to_X(unit):
+    conversion_factors = {
+        'ha': 1,
+        'sq_m': 1 / 10000,          
+        'sq_km': 100,                
+        'acre': 0.4046856422,        
+        'sq_ft': 0.0000092903,       
+        'sq_yd': 0.0000836127,
+        'gaj'  : 0.0000836,
+        'kanal': 0.0505857,
+        'bigha' : 0.1011714,
+        'biswa':0.0050586,
+        'killa' : 0.4046856,
+        'lessa' :0.0002529,
+        'dhur' : 0.0002529,
+        'pura' :0.4046856,
+        'chatak':0.0004181,
+        'marla':0.0025293,
+        'katha': 0.0050586,
+        'ground':0.0223000,
+        'cent':0.0040465,
+        'murabba':10.1171411,
+        'guntha':0.0101171,
+        'karam':0.0002810} 
+    return 1/conversion_factors[unit]
+    
     
      
