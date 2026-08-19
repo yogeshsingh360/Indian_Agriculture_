@@ -2,6 +2,17 @@ import streamlit as st
 import pandas as pd
 from Helper import helper as hp
 import numpy as np
+import dashboard
+
+st.set_page_config(page_title="Indian Agriculture & Yield Prediction", layout="wide", page_icon="🌾")
+
+# --- Sidebar Navigation ---
+st.sidebar.title("🌱 Navigation")
+page = st.sidebar.radio(
+    "Select View",
+    ["🌾 Crop Yield Prediction", "📊 Data Analysis Dashboard"],
+    index=0
+)
 
 # --- Initialize session state for 'submit' ---
 if "submit" not in st.session_state:
@@ -139,12 +150,11 @@ def show_result():
     st.line_chart(env_data,x = "date",y =["temperature_2m_mean","precipitation_sum","relative_humidity_2m_mean","wind_speed_10m_mean"])
     
 # --- App Flow ---
-if not st.session_state.submit:
-    show_input_form()
+if page == "🌾 Crop Yield Prediction":
+    if not st.session_state.submit:
+        show_input_form()
+    else:
+        show_result()
 else:
-    show_result()
-
-
-
-
+    dashboard.show_dashboard()
         
