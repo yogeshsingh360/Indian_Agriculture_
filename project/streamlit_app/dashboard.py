@@ -88,12 +88,12 @@ def show_dashboard():
 
     # --- Dashboard Tabs ---
     tab_overview, tab_trends, tab_crops, tab_geo, tab_weather, tab_correlations = st.tabs([
-        "📈 Overview",
-        "📅 Time Trends",
-        "🌾 Crop Analysis",
-        "🗺️ Geographic Analysis",
-        "🌤️ Weather Analysis",
-        "🔗 Correlations"
+        "Overview",
+        "Time Trends",
+        "Crop Analysis",
+        "Geographic Analysis",
+        "Weather Analysis",
+        "Correlations"
     ])
 
     # ==========================================
